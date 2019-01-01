@@ -1,0 +1,16 @@
+
+h1 {
+	color:red;
+}
+
+.letterspace {
+	padding:5px;
+	border:1px solid black;
+	background-color:#ccf;
+}
+
+#theWord {
+	padding:50px 25%;
+	
+}
+
